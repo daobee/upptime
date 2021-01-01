@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: daobee # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
@@ -12,6 +12,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
+  - name: ssse
+    url: http://nginx.ss.com.se:9999
   - name: Secret Site
     url: $SECRET_SITE
 
