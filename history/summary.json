@@ -22,7 +22,7 @@
     "url": "http://portainer.ss.com.se:9999",
     "icon": "https://favicons.githubusercontent.com/portainer.ss.com.se",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "95.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
