@@ -6,8 +6,10 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: portainer
-    url: http://portainer.ss.com.se:9999
+  - name: jp
+    url: https://jp.daobee.com/
+  - name: la
+    url: https://la.daobee.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
